@@ -3,7 +3,7 @@ This repo contains all learning projects associated with Python programming
 
 - 👋 Hi, I’m Taiwo
 - 👀 I’m interested in WebApp development, MobileApp development
-- 🌱 I’m currently learning OOP, Django, RestAPL, Kivy, KivyMD
+- 🌱 I’m currently learning OOP, Django, HTML, CSS, RestAPI, Kivy, KivyMD, Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
