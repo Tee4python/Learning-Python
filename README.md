@@ -1,10 +1,10 @@
 # Learning-Python
-This repo contains all learning projects associated with Python programming
+This repo contains all learning projects associated with Python programming.
 
-- 👋 Hi, I’m Taiwo.
-- 👀 I’m interested in WebApp development, MobileApp development.
-- 🌱 I’m currently learning OOP, Django, HTML, CSS, RestAPI, Kivy, KivyMD.
-- 💞️ I’m looking to collaborate on Automation, Kivy Mobile App, Django and API testing projects.
+- 👋 Hi, I’m Taiwo Owolanke.
+- 👀 I’m interested in WebApp development, MobileApp development, Bot development.
+- 🌱 I’m currently learning Python, Java/kotlin, Django(Backend), RestAPI, Kivy, KivyMD for Website, Android and Cross-Plateform App development
+- 💞️ I’m looking to collaborate on Bot programming, Kivy Mobile App, Django(Backend) and API testing and App development.
 - 📫 How to reach me @Tee4python via GITHUB.
 
 <!---
